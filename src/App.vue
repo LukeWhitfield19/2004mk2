@@ -62,7 +62,7 @@ export default{
   data(){
     return{
       i : 0,
-     // imgs: "https://web.cse.ohio-state.edu/~chen.8028/VisPubImages/Images/1990/VisC.6.1.png",
+      imgs: "https://web.cse.ohio-state.edu/~chen.8028/VisPubImages/Images/1990/VisC.6.1.png",
       imgArr: urlJson,
       Q1:'',
       Q2:'',
